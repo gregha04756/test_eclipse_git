@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("!!!Hello World by ARM with GIT !!!\n"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
